@@ -1,5 +1,5 @@
 
-NAME=acc-status
+NAME=ledger
 CC=g++
 AR=ar
 DEPS=$(NAME).h ../main/interlecto.h ../main/interlecto.a
